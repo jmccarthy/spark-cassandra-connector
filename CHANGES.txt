@@ -1,3 +1,6 @@
+1.2.x (unreleased)
+ * Fix picking up username and password from SparkConf (SPARKC-108)
+
 1.2.0 RC 2
  * Cross cluster table join and write for Spark SQL (SPARKC-73)
  * Enabling / disabling metrics in metrics configuration file and other metrics fixes (SPARKC-91)
